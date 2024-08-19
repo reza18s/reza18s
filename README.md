@@ -1,10 +1,10 @@
-Sure! Here's a customized README file for your GitHub profile:
+Sure! Here's a tailored README file for your GitHub profile:
 
 ---
 
 # 👋 Hello! I'm Reza
 
-Welcome to my GitHub profile! I'm a passionate Web Developer with a focus on building efficient, scalable, and user-friendly web applications. I enjoy working with the latest web technologies and continuously strive to improve my skills and learn new ones.
+Welcome to my GitHub profile! I'm a passionate Web Developer who loves crafting efficient, scalable, and user-friendly web applications. I specialize in using modern web technologies to create seamless digital experiences.
 
 ## 🔧 Technologies & Tools
 
@@ -16,42 +16,42 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a focus on bui
 
 ## 🌱 Currently Learning
 
-- Advanced Next.js features and optimization techniques.
-- Exploring server-side rendering and static site generation with Next.js.
-- Building high-performance, low-latency backends with Bun and Hono.
+- Advanced features and optimization techniques in Next.js.
+- Enhancing backend performance with Hono and Bun.
+- Exploring server-side rendering and static site generation.
 
 ## 💼 Projects
 
-### [Project 1: Awesome Web App](https://github.com/reza/awesome-web-app)
-An interactive web application built with React and Next.js. It leverages Tailwind CSS for styling and features a Node.js backend powered by Express. This project demonstrates my ability to create a full-stack application from scratch.
+### [Awesome Web App](https://github.com/reza18s/awesome-web-app)
+An interactive web application built with React and Next.js, styled with Tailwind CSS, and powered by a Node.js backend using Express. This project demonstrates my full-stack development skills.
 
-### [Project 2: Portfolio Site](https://github.com/reza/portfolio-site)
-My personal portfolio website showcasing my work and skills. Built with Next.js and styled with Tailwind CSS, this site is fully responsive and optimized for performance.
+### [Portfolio Site](https://github.com/reza18s/portfolio-site)
+My personal portfolio website showcasing my work, built with Next.js and Tailwind CSS. It is fully responsive and optimized for performance, reflecting my design and development expertise.
 
-### [Project 3: API with Hono and Bun](https://github.com/reza/hono-bun-api)
-A high-performance API built using Hono and Bun, focusing on speed and efficiency. This project highlights my backend development skills and my interest in emerging technologies.
+### [High-Performance API](https://github.com/reza18s/high-performance-api)
+An API built with Hono and Bun, focusing on speed and efficiency. This project highlights my backend development skills and my enthusiasm for cutting-edge technologies.
 
 ## 👥 Collaborations & Contributions
 
-- I'm open to collaborating on interesting web development projects, especially those involving React, Next.js, and TypeScript.
-- I enjoy contributing to open-source projects and am always looking for new opportunities to give back to the developer community.
+- I'm eager to collaborate on innovative web development projects, especially those involving React, Next.js, and TypeScript.
+- I contribute to open-source projects and am always looking for new opportunities to engage with the developer community.
 
 ## 📫 How to Reach Me
 
-- **Email**: reza.dev@example.com
+- **Email**: swary2021@gmail.com
 - **LinkedIn**: [Reza's LinkedIn Profile](https://www.linkedin.com/in/reza)
 - **Twitter**: [@reza_dev](https://twitter.com/reza_dev)
-- **Personal Website/Portfolio**: [rezaportfolio.com](https://rezaportfolio.com)
+- **GitHub**: [GitHub Profile](https://github.com/reza18s)
 
 ## 📈 GitHub Stats
 
-![Reza's GitHub stats](https://github.com/reza18s)
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza18s&show_icons=true&theme=radical)
 
 ## 🎯 Goals
 
-- Continue to develop and enhance my skills in full-stack web development.
-- Contribute to more open-source projects, especially in the React and TypeScript ecosystems.
-- Explore new web technologies and frameworks, staying up-to-date with industry trends.
+- Continuously improve my full-stack web development skills.
+- Contribute more to open-source projects in the React and TypeScript communities.
+- Stay updated with the latest web technologies and industry trends.
 
 ---
 
@@ -59,4 +59,4 @@ Feel free to explore my repositories, leave feedback, or reach out to me for any
 
 ---
 
-You can copy and paste this into your GitHub profile README, and adjust the links and details to fit your personal projects and contact information.
+You can copy and paste this into your GitHub profile README, and it should be good to go!
