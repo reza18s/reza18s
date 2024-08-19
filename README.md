@@ -46,6 +46,7 @@ A virtual tour website for exploring exotic locations around the world. Develope
 ## 📈 GitHub Stats
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza18s&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza18s)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Goals
 
