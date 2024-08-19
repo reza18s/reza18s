@@ -46,6 +46,7 @@ A virtual tour website for exploring exotic locations around the world. Develope
 ## 📈 GitHub Stats
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza18s&show_icons=true&theme=radical)
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza18s)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Goals
@@ -53,7 +54,19 @@ A virtual tour website for exploring exotic locations around the world. Develope
 - Continuously enhance my full-stack web development skills.
 - Contribute more to open-source projects, particularly in the React and TypeScript communities.
 - Stay updated with the latest web technologies and industry trends.
+<h3>Skills</h3>
 
+
+<div>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
 ---
 
 Feel free to explore my repositories, check out my projects, or reach out to me for collaboration ideas!
