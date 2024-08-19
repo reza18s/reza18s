@@ -22,9 +22,6 @@ A cutting-edge web application designed to enhance cognitive functions. Built wi
 ### [Snapgram](https://snapgram-me.netlify.app)
 A social media platform that allows users to share and connect through images. Developed using React and Next.js, Snapgram demonstrates my skills in creating dynamic, data-driven applications.
 
-### [RandH](https://randh.netlify.app)
-A random advice and jokes generator application built with React. This project highlights my focus on user experience and the seamless integration of APIs.
-
 ### [The Wild Oasis](https://thewildovasis.netlify.app)
 A virtual tour website for exploring exotic locations around the world. Developed with React and Tailwind CSS, this project emphasizes my design capabilities and attention to detail.
 
