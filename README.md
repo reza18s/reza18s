@@ -1,61 +1,82 @@
-Certainly! Here's a customized README file for your GitHub profile:
 
----
-
-# 👋 Hello! I'm Reza
-
-Welcome to my GitHub profile! I'm a Web Developer with a passion for building efficient, scalable, and user-friendly web applications. I specialize in modern web technologies and enjoy bringing ideas to life in the browser.
-
-## 🔧 Technologies & Tools
-
-- **Languages**: TypeScript, JavaScript
-- **Frontend Frameworks**: React, Next.js
-- **Backend Frameworks**: Node.js, Express, Hono, Bun
-- **Styling**: Tailwind CSS
-- **Tools**: Git, VS Code, npm, Yarn
-
-## 💼 Projects
-
-### [Brainwave](https://brainwave-me.netlify.app)
-A cutting-edge web application designed to enhance cognitive functions. Built with React and Tailwind CSS, this project showcases my ability to create visually appealing and responsive user interfaces.
-
-### [Snapgram](https://snapgram-me.netlify.app)
-A social media platform that allows users to share and connect through images. Developed using React and Next.js, Snapgram demonstrates my skills in creating dynamic, data-driven applications.
-
-### [The Wild Oasis](https://thewildovasis.netlify.app)
-A virtual tour website for exploring exotic locations around the world. Developed with React and Tailwind CSS, this project emphasizes my design capabilities and attention to detail.
-
-## 🌱 Currently Learning
-
-- Advanced techniques in Next.js, including server-side rendering and static site generation.
-- Optimizing backend performance with Hono and Bun.
-- Deepening my understanding of full-stack development with TypeScript.
-
-## 👥 Collaborations & Contributions
-
-- I'm open to collaborating on innovative web development projects, especially those involving React, Next.js, and TypeScript.
-- I actively contribute to open-source projects and seek new opportunities to engage with the developer community.
-
-## 📫 How to Reach Me
-
-- **Email**: swary2021@gmail.com
-- **LinkedIn**: [Reza's LinkedIn Profile](https://www.linkedin.com/in/reza)
-- **Twitter**: [@reza_dev](https://twitter.com/reza_dev)
-- **GitHub**: [GitHub Profile](https://github.com/reza18s)
-
-## 📈 GitHub Stats
-
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=reza18s&show_icons=true&theme=radical)
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza18s)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎯 Goals
-
-- Continuously enhance my full-stack web development skills.
-- Contribute more to open-source projects, particularly in the React and TypeScript communities.
-- Stay updated with the latest web technologies and industry trends.
-<h3>Skills</h3>
-
+<body class="bg-gray-100 p-6">  
+    <div class="max-w-3xl mx-auto bg-white p-8 rounded-lg shadow-lg">  
+        <h1 class="text-3xl font-bold text-center">رضا سعیداوی</h1>  
+        <h2 class="text-xl text-center">Full-Stack Web Developer</h2>  
+        <div class="mt-4">  
+            <p><strong>Address:</strong> Iran, Khuzestan, Ahvaz, Golestan</p>  
+            <p><strong>Phone:</strong> 09365261859</p>  
+            <p><strong>Email:</strong> <a href="mailto:swary2021@gmail.com" class="text-blue-500">swary2021@gmail.com</a></p>  
+        </div>  
+        <h3 class="text-2xl mt-6">Summary</h3>  
+        <p>A highly skilled Full-Stack Web Developer with over 3 years of experience in front-end development and 1 year in back-end development. Proficient in building high-performance, scalable applications using modern web technologies such as React, Next.js, Node.js, Express, and TypeScript. Experienced in working with both relational and non-relational databases and creating real-time applications using Socket.io. Passionate about learning and applying new technologies and best practices in web development.</p>  
+        <h3 class="text-2xl mt-6">Professional Experience</h3>  
+        <h4 class="font-semibold">Back-end Developer with Node.js</h4>  
+        <ul class="list-disc ml-5">  
+            <li>Developed high-quality RESTful APIs using Node.js and Express.js.</li>  
+            <li>Managed data in relational (MySQL, PostgreSQL) and non-relational (MongoDB) databases.</li>  
+            <li>Created real-time applications such as chat apps and collaborative text editors with Socket.io.</li>  
+            <li>Built multi-threaded servers with Express and Socket.io to handle high concurrency.</li>  
+            <li>Experienced in other back-end frameworks such as Hono.js and Django.</li>  
+        </ul>  
+        <h4 class="font-semibold mt-4">Front-end Developer with React</h4>  
+        <ul class="list-disc ml-5">  
+            <li>Built high-performance, user-friendly web applications using React and Next.js.</li>  
+            <li>Worked with various React libraries for state management, styling, and performance optimization.</li>  
+            <li>Implemented server-side rendering (SSR), static site generation (SSG), and client-side rendering (CSR) in Next.js projects.</li>  
+            <li>Utilized modern CSS frameworks like Sass and TailwindCSS to create responsive and accessible UIs.</li>  
+        </ul>  
+        <h4 class="font-semibold mt-4">Python Developer</h4>  
+        <ul class="list-disc ml-5">  
+            <li>Developed Python applications including a Telegram chatbot and OCR-based text recognition software.</li>  
+            <li>Leveraged Python libraries to automate tasks and create efficient software solutions.</li>  
+        </ul>  
+        <h3 class="text-2xl mt-6">Education</h3>  
+        <ul class="list-disc ml-5">  
+            <li>The Complete 2021 Web Development Bootcamp by Angela Yu</li>  
+            <li>The Complete JavaScript Course 2021: From Zero to Expert by Jonas Schmedtmann</li>  
+            <li>The Ultimate React Course 2024: React, Redux & More by Jonas Schmedtmann</li>  
+            <li>Ultimate Next14 Course by Javascript Mastery</li>  
+            <li>100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu</li>  
+            <li>Complete React Native in 2023 by Zero to Mastery</li>  
+        </ul>  
+        <h3 class="text-2xl mt-6">Skills</h3>  
+        <h4 class="font-semibold">Front-End:</h4>  
+        <ul class="list-disc ml-5">  
+            <li>HTML5, Canvas</li>  
+            <li>CSS, Sass, TailwindCSS</li>  
+            <li>JavaScript, TypeScript</li>  
+            <li>React.js, Next.js</li>  
+            <li>React Native</li>  
+        </ul>  
+        <h4 class="font-semibold mt-4">Back-End:</h4>  
+        <ul class="list-disc ml-5">  
+            <li>Node.js, Express.js</li>  
+            <li>Socket.io</li>  
+            <li>Bun</li>  
+            <li>Hono</li>  
+        </ul>  
+        <h4 class="font-semibold mt-4">Databases:</h4>  
+        <ul class="list-disc ml-5">  
+            <li>MongoDB</li>  
+            <li>MySQL</li>  
+            <li>PostgreSQL</li>  
+        </ul>  
+        <h4 class="font-semibold mt-4">Tools & Technologies:</h4>  
+        <ul class="list-disc ml-5">  
+            <li>Git, GitHub</li>  
+            <li>RESTful APIs</li>  
+            <li>Docker</li>  
+        </ul>  
+        <h3 class="text-2xl mt-6">Languages</h3>  
+        <ul class="list-disc ml-5">  
+            <li>Arabic: Fluent</li>  
+            <li>Persian: Native</li>  
+            <li>English: Proficient</li>  
+        </ul>  
+    </div>  
+</body>  
+</html>  
 
 <div>
 
@@ -70,7 +91,3 @@ A virtual tour website for exploring exotic locations around the world. Develope
 ---
 
 Feel free to explore my repositories, check out my projects, or reach out to me for collaboration ideas!
-
----
-
-This README file should give visitors to your GitHub profile a comprehensive overview of who you are, what you do, and how they can connect with you.
