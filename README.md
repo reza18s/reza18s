@@ -77,5 +77,3 @@ A motivated and experienced Full-Stack Web Developer with over 3 years of front-
 - **English:** Proficient
 
 ---
-
-This version emphasizes clarity, structure, and readability, with more concise and impactful language to highlight your skills and experience.
