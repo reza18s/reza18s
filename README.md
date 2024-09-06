@@ -1,8 +1,6 @@
-Here’s an improved version of your CV:
 
----
 
-**Full Stack Web Developer**  
+# **Full Stack Web Developer**  
 **Name:** سعیداوی  
 **Address:** Iran, Khuzestan, Ahvaz, Golestan  
 **Phone:** 09365261859  
