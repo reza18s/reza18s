@@ -1,93 +1,83 @@
+Here’s an improved version of your CV:
 
-<body class="bg-gray-100 p-6">  
-    <div class="max-w-3xl mx-auto bg-white p-8 rounded-lg shadow-lg">  
-        <h1 class="text-3xl font-bold text-center">رضا سعیداوی</h1>  
-        <h2 class="text-xl text-center">Full-Stack Web Developer</h2>  
-        <div class="mt-4">  
-            <p><strong>Address:</strong> Iran, Khuzestan, Ahvaz, Golestan</p>  
-            <p><strong>Phone:</strong> 09365261859</p>  
-            <p><strong>Email:</strong> <a href="mailto:swary2021@gmail.com" class="text-blue-500">swary2021@gmail.com</a></p>  
-        </div>  
-        <h3 class="text-2xl mt-6">Summary</h3>  
-        <p>A highly skilled Full-Stack Web Developer with over 3 years of experience in front-end development and 1 year in back-end development. Proficient in building high-performance, scalable applications using modern web technologies such as React, Next.js, Node.js, Express, and TypeScript. Experienced in working with both relational and non-relational databases and creating real-time applications using Socket.io. Passionate about learning and applying new technologies and best practices in web development.</p>  
-        <h3 class="text-2xl mt-6">Professional Experience</h3>  
-        <h4 class="font-semibold">Back-end Developer with Node.js</h4>  
-        <ul class="list-disc ml-5">  
-            <li>Developed high-quality RESTful APIs using Node.js and Express.js.</li>  
-            <li>Managed data in relational (MySQL, PostgreSQL) and non-relational (MongoDB) databases.</li>  
-            <li>Created real-time applications such as chat apps and collaborative text editors with Socket.io.</li>  
-            <li>Built multi-threaded servers with Express and Socket.io to handle high concurrency.</li>  
-            <li>Experienced in other back-end frameworks such as Hono.js and Django.</li>  
-        </ul>  
-        <h4 class="font-semibold mt-4">Front-end Developer with React</h4>  
-        <ul class="list-disc ml-5">  
-            <li>Built high-performance, user-friendly web applications using React and Next.js.</li>  
-            <li>Worked with various React libraries for state management, styling, and performance optimization.</li>  
-            <li>Implemented server-side rendering (SSR), static site generation (SSG), and client-side rendering (CSR) in Next.js projects.</li>  
-            <li>Utilized modern CSS frameworks like Sass and TailwindCSS to create responsive and accessible UIs.</li>  
-        </ul>  
-        <h4 class="font-semibold mt-4">Python Developer</h4>  
-        <ul class="list-disc ml-5">  
-            <li>Developed Python applications including a Telegram chatbot and OCR-based text recognition software.</li>  
-            <li>Leveraged Python libraries to automate tasks and create efficient software solutions.</li>  
-        </ul>  
-        <h3 class="text-2xl mt-6">Education</h3>  
-        <ul class="list-disc ml-5">  
-            <li>The Complete 2021 Web Development Bootcamp by Angela Yu</li>  
-            <li>The Complete JavaScript Course 2021: From Zero to Expert by Jonas Schmedtmann</li>  
-            <li>The Ultimate React Course 2024: React, Redux & More by Jonas Schmedtmann</li>  
-            <li>Ultimate Next14 Course by Javascript Mastery</li>  
-            <li>100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu</li>  
-            <li>Complete React Native in 2023 by Zero to Mastery</li>  
-        </ul>  
-        <h3 class="text-2xl mt-6">Skills</h3>  
-        <h4 class="font-semibold">Front-End:</h4>  
-        <ul class="list-disc ml-5">  
-            <li>HTML5, Canvas</li>  
-            <li>CSS, Sass, TailwindCSS</li>  
-            <li>JavaScript, TypeScript</li>  
-            <li>React.js, Next.js</li>  
-            <li>React Native</li>  
-        </ul>  
-        <h4 class="font-semibold mt-4">Back-End:</h4>  
-        <ul class="list-disc ml-5">  
-            <li>Node.js, Express.js</li>  
-            <li>Socket.io</li>  
-            <li>Bun</li>  
-            <li>Hono</li>  
-        </ul>  
-        <h4 class="font-semibold mt-4">Databases:</h4>  
-        <ul class="list-disc ml-5">  
-            <li>MongoDB</li>  
-            <li>MySQL</li>  
-            <li>PostgreSQL</li>  
-        </ul>  
-        <h4 class="font-semibold mt-4">Tools & Technologies:</h4>  
-        <ul class="list-disc ml-5">  
-            <li>Git, GitHub</li>  
-            <li>RESTful APIs</li>  
-            <li>Docker</li>  
-        </ul>  
-        <h3 class="text-2xl mt-6">Languages</h3>  
-        <ul class="list-disc ml-5">  
-            <li>Arabic: Fluent</li>  
-            <li>Persian: Native</li>  
-            <li>English: Proficient</li>  
-        </ul>  
-    </div>  
-</body>  
-</html>  
-
-<div>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
 ---
 
-Feel free to explore my repositories, check out my projects, or reach out to me for collaboration ideas!
+**Full Stack Web Developer**  
+**Name:** سعیداوی  
+**Address:** Iran, Khuzestan, Ahvaz, Golestan  
+**Phone:** 09365261859  
+**Email:** swary2021@gmail.com  
+**GitHub:** [reza18s](https://github.com/reza18s)
+
+---
+
+### **Profile**  
+A motivated and experienced Full-Stack Web Developer with over 3 years of front-end experience and 1 year of back-end expertise. Specializing in developing high-performance applications using modern web technologies such as **React**, **Next.js**, **Node.js**, **Express**, and **TypeScript**. Adept at building real-time applications and managing both relational and non-relational databases. Known for creating efficient, user-friendly, and responsive applications.
+
+---
+
+### **Professional Experience**  
+
+#### **Back-End Developer**  
+**Technologies:** Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Socket.io, Hono.js, Django  
+- Developed and maintained high-quality RESTful APIs using **Node.js** and **Express.js**.  
+- Managed data using relational databases like **MySQL** and **PostgreSQL**, and non-relational databases such as **MongoDB**.  
+- Created real-time applications (e.g., chat apps, collaborative editors) using **Socket.io** and built multi-threaded servers to handle high concurrency.  
+- Experience working with other back-end frameworks like **Hono.js** and **Django** for additional flexibility.
+
+#### **Front-End Developer**  
+**Technologies:** React, Next.js, Sass, TailwindCSS  
+- Built user-friendly, high-performance web applications using **React** and **Next.js**.  
+- Implemented **SSR** (Server-Side Rendering), **SSG** (Static Site Generation), and **CSR** (Client-Side Rendering) in **Next.js** projects.  
+- Utilized modern CSS frameworks like **Sass** and **TailwindCSS** to design responsive, accessible, and visually appealing user interfaces.  
+- Worked with state management tools like **Redux**, **zustand**, and **Context API** for optimized front-end performance.
+
+#### **Python Developer**  
+**Technologies:** Python, OCR, Telegram Bot API  
+- Developed various Python applications, including a **Telegram chatbot** and **OCR-based text recognition** software.  
+- Automated tasks and created efficient software solutions using Python libraries.
+
+---
+
+### **Education & Certifications**  
+- **The Complete 2021 Web Development Bootcamp** by Angela Yu (2021)  
+- **The Complete JavaScript Course 2021: From Zero to Expert** by Jonas Schmedtmann (2021)  
+- **Ultimate React Course: React, Redux & More** by Jonas Schmedtmann (2022)  
+- **Ultimate Next.js 14 Course** by JavaScript Mastery (2022)  
+- **100 Days of Code: Python Pro Bootcamp** by Angela Yu (2021)  
+- **Complete React Native in 2023** by Zero to Mastery (2023)
+
+---
+
+### **Skills**  
+
+**Front-End:**  
+- HTML5, Canvas  
+- CSS, Sass, TailwindCSS  
+- JavaScript, TypeScript  
+- React.js, Next.js, React Native  
+- Redux, Zustand, Context API  
+
+**Back-End:**  
+- Node.js, Express.js  
+- Socket.io, Bun, Hono, GraphQL  
+
+**Databases:**  
+- MongoDB, MySQL, PostgreSQL  
+
+**Tools & Technologies:**  
+- Git, GitHub, RESTful APIs, Docker  
+- Unit Testing (Jest, Vitest)  
+- Netlify, Vercel, AWS  
+- Package Management (npm, yarn, bun)
+
+---
+
+### **Languages**  
+- **Arabic:** Fluent  
+- **Persian:** Native  
+- **English:** Proficient
+
+---
+
+This version emphasizes clarity, structure, and readability, with more concise and impactful language to highlight your skills and experience.
