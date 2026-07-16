@@ -1,79 +1,84 @@
+# Hi, I'm Reza Saeidavi 👋
 
+### Full-Stack Developer · Web & Mobile
 
-# **Full Stack Web Developer**  
-**Name:** سعیداوی  
-**Address:** Iran, Khuzestan, Ahvaz, Golestan  
-**Phone:** 09365261859  
-**Email:** swary2021@gmail.com  
-**GitHub:** [reza18s](https://github.com/reza18s)
+I'm a full-stack developer with around four years of experience building web and mobile applications. I work across the stack—from responsive user interfaces to back-end services, APIs, and databases—and enjoy turning ideas into simple, useful products.
 
----
+My experience includes social, e-commerce, financial, restaurant, and AI-powered applications. I value continuous learning, practical problem-solving, and effective teamwork.
 
-### **Profile**  
-A motivated and experienced Full-Stack Web Developer with over 3 years of front-end experience and 1 year of back-end expertise. Specializing in developing high-performance applications using modern web technologies such as **React**, **Next.js**, **Node.js**, **Express**, and **TypeScript**. Adept at building real-time applications and managing both relational and non-relational databases. Known for creating efficient, user-friendly, and responsive applications.
+## Contact
 
----
+- **Location:** Ahvaz, Iran
+- **Phone:** [09365261859](tel:+989365261859)
+- **Telegram:** [@Reza19s](https://t.me/Reza19s)
+- **Email:** [Swary2021@gmail.com](mailto:Swary2021@gmail.com)
+- **GitHub:** [github.com/reza18s](https://github.com/reza18s)
+- **LinkedIn:** [Reza Saeidavi](https://www.linkedin.com/in/%D8%B1%D8%B6%D8%A7-%D8%B3%D8%B9%D9%8A%D8%AF%D8%A7%D9%88%DB%8C-744283422)
 
-### **Professional Experience**  
+## Technical Skills
 
-#### **Back-End Developer**  
-**Technologies:** Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Socket.io, Hono.js, Django  
-- Developed and maintained high-quality RESTful APIs using **Node.js** and **Express.js**.  
-- Managed data using relational databases like **MySQL** and **PostgreSQL**, and non-relational databases such as **MongoDB**.  
-- Created real-time applications (e.g., chat apps, collaborative editors) using **Socket.io** and built multi-threaded servers to handle high concurrency.  
-- Experience working with other back-end frameworks like **Hono.js** and **Django** for additional flexibility.
+| Area | Technologies |
+| --- | --- |
+| **Front End & Mobile** | JavaScript, TypeScript, React, Next.js, React Native, Ionic |
+| **Back End** | Node.js, Python |
+| **API & Data** | GraphQL, Nexus, Prisma, PostgreSQL |
+| **Infrastructure & Tools** | Nginx, Docker, Git, server setup and configuration |
 
-#### **Front-End Developer**  
-**Technologies:** React, Next.js, Sass, TailwindCSS  
-- Built user-friendly, high-performance web applications using **React** and **Next.js**.  
-- Implemented **SSR** (Server-Side Rendering), **SSG** (Static Site Generation), and **CSR** (Client-Side Rendering) in **Next.js** projects.  
-- Utilized modern CSS frameworks like **Sass** and **TailwindCSS** to design responsive, accessible, and visually appealing user interfaces.  
-- Worked with state management tools like **Redux**, **zustand**, and **Context API** for optimized front-end performance.
+## Selected Projects
 
-#### **Python Developer**  
-**Technologies:** Python, OCR, Telegram Bot API  
-- Developed various Python applications, including a **Telegram chatbot** and **OCR-based text recognition** software.  
-- Automated tasks and created efficient software solutions using Python libraries.
+### Baki · Dating, Chat & Secure Messaging
 
----
+Full-stack social and travel-companion application.
 
-### **Education & Certifications**  
-- **The Complete 2021 Web Development Bootcamp** by Angela Yu (2021)  
-- **The Complete JavaScript Course 2021: From Zero to Expert** by Jonas Schmedtmann (2021)  
-- **Ultimate React Course: React, Redux & More** by Jonas Schmedtmann (2022)  
-- **Ultimate Next.js 14 Course** by JavaScript Mastery (2022)  
-- **100 Days of Code: Python Pro Bootcamp** by Angela Yu (2021)  
-- **Complete React Native in 2023** by Zero to Mastery (2023)
+- Built a responsive, mobile-first interface for user discovery and travel planning
+- Developed a GraphQL API for private chat, companion requests, matching, and notifications
+- Implemented authentication, authorization, profiles, interests, destinations, and travel dates
+- **Stack:** React, Ionic, Node.js, TypeScript, GraphQL, Nexus, Prisma, PostgreSQL
+- **Android:** [View on Cafe Bazaar](http://cafebazaar.ir/app/?id=ir.baki.app&ref=share)
 
----
+### Polita · Accounting & Financial Management
 
-### **Skills**  
+Web and mobile tools for day-to-day business and financial operations.
 
-**Front-End:**  
-- HTML5, Canvas  
-- CSS, Sass, TailwindCSS  
-- JavaScript, TypeScript  
-- React.js, Next.js, React Native  
-- Redux, Zustand, Context API  
+- Developed invoice, product, inventory, deposit, withdrawal, cheque, and reporting features
+- Designed role-based access for employees, inventory managers, accountants, and business owners
+- Added due-date notifications and tools for managing staff, inventory, and financial events
+- **Stack:** React, React Native, JavaScript, data-management and notification systems
 
-**Back-End:**  
-- Node.js, Express.js  
-- Socket.io, Bun, Hono, GraphQL  
+### Liza · Custom Eyewear Store
 
-**Databases:**  
-- MongoDB, MySQL, PostgreSQL  
+Custom e-commerce experience for configuring and ordering eyewear.
 
-**Tools & Technologies:**  
-- Git, GitHub, RESTful APIs, Docker  
-- Unit Testing (Jest, Vitest)  
-- Netlify, Vercel, AWS  
-- Package Management (npm, yarn, bun)
+- Designed a product builder based on style, color, material, size, and technical specifications
+- Created a streamlined customization and ordering flow
+- Implemented product, inventory, and pricing management for mobile and desktop
+- **Stack:** JavaScript, responsive design, custom e-commerce development
 
----
+### Armenian Grillhouse · Multilingual Restaurant Website
 
-### **Languages**  
-- **Arabic:** Fluent  
-- **Persian:** Native  
-- **English:** Proficient
+Online ordering and payment experience for local and international customers.
 
----
+- Developed a multilingual food and beverage menu with online ordering
+- Integrated secure Stripe payments and optimized the experience across devices
+- Focused on performance, responsive behavior, and accessibility
+- **Stack:** JavaScript, Stripe, responsive and accessible design
+
+### Chi Bokhorim · Smart & Easy Cooking
+
+AI-powered cooking and educational-content application.
+
+- Designed access to recipes, step-by-step videos, courses, and short-form content
+- Created intelligent meal suggestions based on preferences, available ingredients, time, and diet
+- Built a conversational AI-assistant experience for cooking guidance and ingredient alternatives
+- **Focus:** App development, advanced search, video content, and intelligent features
+- **Android:** [View on Cafe Bazaar](http://cafebazaar.ir/app/?id=ir.chibokhorim.app&ref=share)
+
+## Languages
+
+- Persian
+- Arabic
+- English
+
+## Open to Opportunities
+
+I'm open to full-stack, front-end, back-end, and mobile development opportunities. Feel free to contact me if you'd like to discuss a role, project, or collaboration.
